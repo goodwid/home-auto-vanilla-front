@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodwid/home-auto-vanilla-front.git"
+  },
   "author": "David Goodwin <goodwid@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goodwid/home-auto-vanilla-front/issues"
+  },
+  "homepage": "https://github.com/goodwid/home-auto-vanilla-front#readme"
 }
